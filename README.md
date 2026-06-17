@@ -257,7 +257,6 @@ This demonstrates real-world monitoring concepts used in cloud infrastructure pl
 - Sir M Visvesvaraya Institute of Technology
 - Full Stack Developer
 - DSA Enthusiast
-- Founder - Notesquad
 
 ---
 
